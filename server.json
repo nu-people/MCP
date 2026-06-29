@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.nu-people/nue-people-jobs",
   "title": "nü people Job Server",
-  "description": "Public, read-only MCP server for discovering open jobs at nü people. Search jobs semantically, filter by location and contract type, retrieve job details and skill clusters, and get direct application links.",
+  "description": "Public MCP server for discovering open jobs. Search, filter by location/contract type, and get application links.",
   "version": "1.0.0",
   "remotes": [
     {
